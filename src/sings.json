@@ -1,0 +1,16 @@
+{ 
+    "items" : [
+    {
+        "id": 1,
+        "category": "game",
+        "name": "Game Over",
+        "url": "data/mario/fx_gameover.wav"
+    },
+    {
+        "id": 2,
+        "category": "game",
+        "name": "Jump Super",
+        "url": "data/mario/fx_jump_super.wav"
+    }
+]
+}

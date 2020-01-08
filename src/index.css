@@ -11,3 +11,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{
+  background-color: black;
+}
+ol{
+  color: white;
+  font-size: 28px;
+  list-style-position:inside;
+  counter-reset: item;
+  list-style-type: none;
+  width: 600px;
+  margin: 0 auto;
+ 
+}
+li {
+  border: 1px solid #525152;;
+  display: block;
+  padding-left: 100px;
+  background-color: #1E2025;
+}
+  
+li:hover{
+  background-color: #525152;
+}
+.firstbutton{
+ margin-left: 50%;
+ 
+}
+
+
+div{
+overflow: scroll;
+}
+
+.btn{
+  width: 50px;
+}
